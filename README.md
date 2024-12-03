@@ -90,3 +90,7 @@ docker volume prune
 - Containers
 - Docker Compose files (e.g. healthcheck scripts)
 - Pruning resources
+
+## Credits
+
+* [Example Voting App](https://github.com/dockersamples/example-voting-app) - from Docker samples, used some of the code files
