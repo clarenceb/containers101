@@ -94,3 +94,8 @@ docker volume prune
 ## Credits
 
 * [Example Voting App](https://github.com/dockersamples/example-voting-app) - from Docker samples, used some of the code files
+
+  * healthchecks/postgres.sh
+  * healthchecks/redis.sh
+  * voting-app-compose.yaml
+  * See license `LICENSE-voting-app.txt` for those files
